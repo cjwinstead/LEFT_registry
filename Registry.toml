@@ -4,3 +4,4 @@ repo = "ssh://git@github.com/cjwinstead/LEFT_registry"
 description = "Julia registry for LEFT Lab projects."
 
 [packages]
+16d751f2-2168-46b0-9d00-9e1470832ba3 = { name = "NgHerb", path = "N/NgHerb" }
