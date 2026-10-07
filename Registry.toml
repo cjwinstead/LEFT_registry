@@ -5,3 +5,4 @@ description = "Julia registry for LEFT Lab projects."
 
 [packages]
 16d751f2-2168-46b0-9d00-9e1470832ba3 = { name = "NgHerb", path = "N/NgHerb" }
+7558d6fc-9aaf-4343-9ca4-2cb62773acb1 = { name = "Microelectronics", path = "M/Microelectronics" }
