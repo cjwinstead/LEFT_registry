@@ -1,6 +1,6 @@
 name = "LEFT_registry"
 uuid = "ffdbe137-4527-4a5c-bec7-d3ec4f761037"
-repo = "ssh://git@github.com/cjwinstead/LEFT_registry"
+repo = "https://github.com/cjwinstead/LEFT_registry"
 description = "Julia registry for LEFT Lab projects."
 
 [packages]
