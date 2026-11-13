@@ -6,4 +6,5 @@ description = "Julia registry for LEFT Lab projects."
 [packages]
 16d751f2-2168-46b0-9d00-9e1470832ba3 = { name = "NgHerb", path = "N/NgHerb" }
 7558d6fc-9aaf-4343-9ca4-2cb62773acb1 = { name = "Microelectronics", path = "M/Microelectronics" }
+97c0b0a4-0edd-47e8-a230-2da741dcc35e = { name = "MOS_amplifier_configurations", path = "M/MOS_amplifier_configurations" }
 fe0f8afc-60ab-40bb-850f-aaaf3f1447e3 = { name = "SchematicSVG", path = "S/SchematicSVG" }
