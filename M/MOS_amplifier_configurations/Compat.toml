@@ -1,5 +1,10 @@
 [0]
-LocalRegistry = "0.5.7-0.5"
 Microelectronics = "1.4.0-1"
-SchematicSVG = "0.12.2-0.12"
 julia = "1.10.0-1"
+
+["0-0.2.0"]
+LocalRegistry = "0.5.7-0.5"
+SchematicSVG = "0.12.2-0.12"
+
+["0.2.1-0"]
+SchematicSVG = "0.12.2-0.14"
