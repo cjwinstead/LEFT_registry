@@ -1,0 +1,3 @@
+name = "DRAM_lab"
+uuid = "7cf7bbf8-47d1-49f4-bd88-44f45eb9e858"
+repo = "https://github.com/cjwinstead/DRAM_lab.jl.git"
